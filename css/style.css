@@ -197,7 +197,7 @@ section {
 }
 
 @media screen and (max-width: 499px) {
-  #number {
+  #number a {
     display: none;
   }
 
