@@ -46,11 +46,13 @@ body,
   height: 60px;
 }
 
-#number {
+#number a {
   width: 140px;
   position: absolute;
   top: 30%;
   left: 5%;
+  text-decoration: none;
+  color: black;
 }
 
 #number-mobile {
